@@ -155,7 +155,7 @@ img {
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: linear-gradient(90deg, rgba(8, 10, 9, 0.88), rgba(8, 10, 9, 0.6) 55%, rgba(8, 10, 9, 0.72)), url('/assets/hero.png') center 52% / cover no-repeat;
+  background: linear-gradient(90deg, rgba(8, 10, 9, 0.88), rgba(8, 10, 9, 0.6) 55%, rgba(8, 10, 9, 0.72)), url('/assets/hero-novo.avif') center 52% / cover no-repeat;
 }
 
 .hero-content {
@@ -1140,7 +1140,7 @@ section[id] {
     min-height: 570px;
   }
   .hero:before {
-    background: linear-gradient(0deg, rgba(8, 10, 9, 0.94) 4%, rgba(8, 10, 9, 0.65) 57%, rgba(8, 10, 9, 0.45)), url('/assets/hero.png') 60% center / cover no-repeat;
+    background: linear-gradient(0deg, rgba(8, 10, 9, 0.94) 4%, rgba(8, 10, 9, 0.65) 57%, rgba(8, 10, 9, 0.45)), url('/assets/hero-novo.avif') 60% center / cover no-repeat;
   }
   .hero-content {
     padding: 85px 0;
