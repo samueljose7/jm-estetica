@@ -1,0 +1,12 @@
+JM ESTÉTICA AUTOMOTIVA — EXPORTAÇÃO PARA VERCEL
+
+1. Extraia o ZIP.
+2. Entre em https://vercel.com/drop com sua conta.
+3. Arraste a pasta jm-estetica-vercel (a que contém index.html) e publique.
+
+Alternativa: envie os arquivos para um repositório GitHub e importe-o na Vercel.
+Framework: Other. Sem comando de build. Diretório de saída: .
+
+Site estático completo, com HTML, CSS, JavaScript e imagens locais.
+O mapa requer internet e o atendimento abre o WhatsApp.
+Os arquivos originais do site foram preservados sem alterações visuais.
